@@ -11,7 +11,7 @@ _______________________________________
 #define pf push_front
 #define fi first
 #define se second
-#define N 3005
+#define N 300005
 #define all(X) X.begin(),X.end()
 using namespace std;
 const ll MOD = 1e9 + 7;
